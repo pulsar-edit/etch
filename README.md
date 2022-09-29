@@ -1,3 +1,5 @@
+# WARNING: We are trying to migrate away from this for SolidJS. If you have any expertise in using SolidJS we'd greatly appreciate it.
+
 # ![Logo](https://cloud.githubusercontent.com/assets/378023/18806594/927cb104-826c-11e6-8e4b-7b54be52108e.png)
 
 [![CI](https://github.com/atom/etch/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/etch/actions/workflows/ci.yml)
